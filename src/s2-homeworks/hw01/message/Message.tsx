@@ -1,6 +1,7 @@
 import React from 'react'
 import s from './Message.module.css'
 import {MessageType} from "../HW1";
+import avatar from '../avatar.png'
 
 
 
@@ -18,7 +19,8 @@ const Message = (props: MessagePropsType) => {
                 <img
                     id={'hw1-avatar-' + props.message.id}
                     // создаёт студент
-                    src={props.message.user.avatar}
+                    src={avatar}
+                    alt={'avatarIcon1'}
                     //
                 />
                 <div className={s.text}>

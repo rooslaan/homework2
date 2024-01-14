@@ -34,7 +34,7 @@ export type MessageType = {
 export const message0: MessageType = {
     id: 0,
     user: {
-        avatar: 'src/s2-homeworks/hw01/avatar.png', // можно менять
+        avatar: '../avatar.png', // можно менять
         name: 'Rayan Gosling',  // можно менять
     },
     message: {
@@ -45,7 +45,7 @@ export const message0: MessageType = {
 export const friendMessage0: MessageType = {
     id: 100,
     user: {
-        avatar: '', // можно менять
+        avatar: '../avatar.png', // можно менять
         name: 'Leo Di Caprio', // можно менять
     },
     message: {

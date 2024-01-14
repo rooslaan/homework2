@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rooslaan/homework2.git/static/css/main.f3dc9231.css",
+    "main.js": "/rooslaan/homework2.git/static/js/main.b56ed656.js",
+    "static/js/787.66cb4309.chunk.js": "/rooslaan/homework2.git/static/js/787.66cb4309.chunk.js",
+    "index.html": "/rooslaan/homework2.git/index.html",
+    "main.f3dc9231.css.map": "/rooslaan/homework2.git/static/css/main.f3dc9231.css.map",
+    "main.b56ed656.js.map": "/rooslaan/homework2.git/static/js/main.b56ed656.js.map",
+    "787.66cb4309.chunk.js.map": "/rooslaan/homework2.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3dc9231.css",
+    "static/js/main.b56ed656.js"
+  ]
+}

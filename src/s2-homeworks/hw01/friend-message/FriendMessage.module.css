@@ -1,17 +1,22 @@
 .friendMessage {
-
 }
 
 .friendImageAndText {
-
+    display: flex;
+    flex-direction: row;
 }
 
 .friendImageAndText img {
-
+    height: 48px;
+    width: 48px;
 }
 
 .friendText {
-
+    height: 60px;
+    width: 526px;
+    background-color: #F5F7FB;
+    color: #000;
+    border-radius: 10px;
 }
 
 .friendText:after {
@@ -19,13 +24,27 @@
 }
 
 .friendName {
-
+    font-family: Montserrat, 'sans-serif';
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.2;
 }
 
 .friendMessageText {
-
+    font-family: Montserrat, 'sans-serif';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.2;
 }
 
 .friendTime {
-
+    align-self: end;
+    transform: translateX(12px);
+    color: #000;
+    font-family: Montserrat, 'sans-serif';
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }

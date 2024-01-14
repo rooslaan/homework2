@@ -37,7 +37,7 @@ const FriendMessage = (props: FriendMessagePropsType) => {
                         className={s.friendMessageText}
                     >
                         {/*создаёт студент*/}
-                        {props.message.message.time}
+
                         {props.message.message.text}
                         {/**/}
                     </pre>
@@ -48,7 +48,7 @@ const FriendMessage = (props: FriendMessagePropsType) => {
                 className={s.friendTime}
             >
                 {/*создаёт студент*/}
-
+                {props.message.message.time}
                 {/**/}
             </div>
         </div>

@@ -3,7 +3,6 @@ import Message from './message/Message'
 import MessageSender from './message-sender/MessageSender'
 import s2 from '../../s1-main/App.module.css'
 import FriendMessage from './friend-message/FriendMessage'
-import avatar from './avatar.png'
 
 /*
 * 1 - описать тип MessageType
@@ -38,7 +37,7 @@ export const message0: MessageType = {
         name: 'Rayan Gosling',  // можно менять
     },
     message: {
-        text: 'nihao', // можно менять
+        text: 'Hello, she didn’t do anything and rested all day, how are you?', // можно менять
         time: '23:00', // можно менять
     },
 }
@@ -49,7 +48,7 @@ export const friendMessage0: MessageType = {
         name: 'Leo Di Caprio', // можно менять
     },
     message: {
-        text: 'hi,podoshva', // можно менять
+        text: 'Hello, she didn’t do anything and rested all day, how are you?', // можно менять
         time: '12:00', // можно менять
     },
 }

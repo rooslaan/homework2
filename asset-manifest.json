@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/rooslaan/homework2.git/static/css/main.f3dc9231.css",
-    "main.js": "/rooslaan/homework2.git/static/js/main.ac99d73a.js",
+    "main.js": "/rooslaan/homework2.git/static/js/main.0cea0ba4.js",
     "static/js/787.66cb4309.chunk.js": "/rooslaan/homework2.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/rooslaan/homework2.git/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/rooslaan/homework2.git/index.html",
     "main.f3dc9231.css.map": "/rooslaan/homework2.git/static/css/main.f3dc9231.css.map",
-    "main.ac99d73a.js.map": "/rooslaan/homework2.git/static/js/main.ac99d73a.js.map",
+    "main.0cea0ba4.js.map": "/rooslaan/homework2.git/static/js/main.0cea0ba4.js.map",
     "787.66cb4309.chunk.js.map": "/rooslaan/homework2.git/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3dc9231.css",
-    "static/js/main.ac99d73a.js"
+    "static/js/main.0cea0ba4.js"
   ]
 }
